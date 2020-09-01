@@ -1,0 +1,122 @@
+#div1{
+  width: 200px;
+  height:200px;
+  border:1px solid #000000;
+  position:absolute;
+  margin: 0px 0px 0px 0px;
+}
+#div2{
+  width: 200px;
+  height:200px;
+  border:1px solid #000000;
+  position:absolute;
+  margin: 0px 0px 0px 200px;
+}
+#div3{
+  width: 200px;
+  height:200px;
+  border:1px solid #000000;
+  position:absolute;
+  margin: 0px 0px 0px 400px;
+}
+#div4{
+  width: 200px;
+  height:200px;
+  border:1px solid #000000;
+  position:absolute;
+  margin: 0px 0px 0px 600px;
+}
+#div5{
+  width: 200px;
+  height:200px;
+  border:1px solid #000000;
+  position:absolute;
+  margin: 200px 0px 0px 0px;
+}
+
+#div6{
+  width: 200px;
+  height:200px;
+  border:1px solid #000000;
+  position:absolute;
+  margin: 200px 0px 0px 200px;
+}
+#div7{
+  width: 200px;
+  height:200px;
+  border:1px solid #000000;
+  position:absolute;
+  margin: 200px 0px 0px 400px;
+}
+#div8{
+  width: 200px;
+  height:200px;
+  border:1px solid #000000;
+  position:absolute;
+  margin: 200px 0px 0px 600px;
+}
+#div9{
+  width: 200px;
+  height:200px;
+  border:1px solid #000000;
+  position:absolute;
+  margin: 400px 0px 0px 0px;
+}
+#div10{
+  width: 200px;
+  height:200px;
+  border:1px solid #000000;
+  position:absolute;
+  margin: 400px 0px 0px 200px;
+}
+#div11{
+  width: 200px;
+  height:200px;
+  border:1px solid #000000;
+  position:absolute;
+  margin: 400px 0px 0px 400px;
+}
+#div12{
+  width: 200px;
+  height:200px;
+  border:1px solid #000000;
+  position:absolute;
+  margin: 400px 0px 0px 600px;
+}
+#div13{
+  width: 200px;
+  height:200px;
+  border:1px solid #000000;
+  position:absolute;
+  margin: 600px 0px 0px 0px;
+}
+#div14{
+  width: 200px;
+  height:200px;
+  border:1px solid #000000;
+  position:absolute;
+  margin: 600px 0px 0px 200px;
+}
+#div15{
+  width: 200px;
+  height:200px;
+  border:1px solid #000000;
+  position:absolute;
+  margin: 600px 0px 0px 400px;
+}
+#div16{
+  width: 200px;
+  height:200px;
+  border:1px solid #000000;
+  position:absolute;
+  margin: 600px 0px 0px 600px;
+}
+
+
+.imagenes{
+   margin: 0px 0px 0px 900px
+}
+.lineas{
+height: 900px;
+  position: relative;
+}
