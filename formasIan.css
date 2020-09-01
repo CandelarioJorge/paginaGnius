@@ -1,0 +1,241 @@
+#div1 {
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 1px solid #aaaaaa;
+  position: absolute;
+  margin: 0px 0px 0px 0px;
+}
+
+#div2 {
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 1px solid #aaaaaa;
+  position: absolute;
+  margin: 0px 0px 0px 200px;
+}
+
+#div3 {
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 1px solid #aaaaaa;
+  position: absolute;
+  margin: 0px 0px 0px 400px;
+}
+
+#div4 {
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 1px solid #aaaaaa;
+  position: absolute;
+  margin: 0px 0px 0px 600px;
+}
+
+
+#div5 {
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 1px solid #aaaaaa;
+  position: absolute;
+  margin: 200px 0px 0px 0px;
+}
+
+#div6 {
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 1px solid #aaaaaa;
+  position: absolute;
+  margin: 200px 0px 0px 200px;
+}
+
+#div7 {
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 1px solid #aaaaaa;
+  position: absolute;
+  margin: 200px 0px 0px 400px;
+}
+
+#div8 {
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 1px solid #aaaaaa;
+  position: absolute;
+  margin: 200px 0px 0px 600px;
+}
+
+
+#div9 {
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 1px solid #aaaaaa;
+  position: absolute;
+  margin: 400px 0px 0px 0px;
+}
+
+#div10 {
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 1px solid #aaaaaa;
+  position: absolute;
+  margin: 400px 0px 0px 200px;
+}
+
+#div11 {
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 1px solid #aaaaaa;
+  position: absolute;
+  margin: 400px 0px 0px 400px;
+}
+
+#div12 {
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 1px solid #aaaaaa;
+  position: absolute;
+  margin: 400px 0px 0px 600px;
+}
+
+
+#div13 {
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 1px solid #aaaaaa;
+  position: absolute;
+  margin: 600px 0px 0px 0px;
+}
+
+#div14 {
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 1px solid #aaaaaa;
+  position: absolute;
+  margin: 600px 0px 0px 200px;
+}
+
+#div15 {
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 1px solid #aaaaaa;
+  position: absolute;
+  margin: 600px 0px 0px 400px;
+}
+
+#div16 {
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 1px solid #aaaaaa;
+  position: absolute;
+  margin: 600px 0px 0px 600px;
+}
+
+
+.contenedor{
+
+  margin: 0px 0px 0px 0px
+}
+
+.imagenes{
+  background: ;
+  width: 900px;
+  margin: 0px 0px 0px 900px
+}
+
+.imagen1{
+  position: absolute;
+  margin: 900px 0px 0px 0px
+}
+
+.imagen2{
+  position: absolute;
+  margin: 900px 0px 0px 200px
+}
+
+.imagen3{
+  position: absolute;
+  margin: 900px 0px 0px 400px
+}
+
+.imagen4{
+  position: absolute;
+  margin: 900px 0px 0px 600px
+}
+
+
+.imagen5{
+  position: absolute;
+  margin: 1100px 0px 0px 0px
+}
+
+.imagen6{
+  position: absolute;
+  margin: 1100px 0px 0px 200px
+}
+
+.imagen7{
+  position: absolute;
+  margin: 1100px 0px 0px 400px
+}
+
+.imagen8{
+  position: absolute;
+  margin: 1100px 0px 0px 600px
+}
+
+
+.imagen9{
+  position: absolute;
+  margin: 1300px 0px 0px 0px
+}
+
+.imagen10{
+  position: absolute;
+  margin: 1300px 0px 0px 200px
+}
+
+.imagen11{
+  position: absolute;
+  margin: 1300px 0px 0px 400px
+}
+
+.imagen12{
+  position: absolute;
+  margin: 1300px 0px 0px 600px
+}
+
+
+.imagen13{
+  position: absolute;
+  margin: 1500px 0px 0px 0px
+}
+
+.imagen14{
+  position: absolute;
+  margin: 1500px 0px 0px 200px
+}
+
+.imagen15{
+  position: absolute;
+  margin: 1500px 0px 0px 400px
+}
+
+.imagen16{
+  position: absolute;
+  margin: 1500px 0px 0px 600px
+}
